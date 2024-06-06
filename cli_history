@@ -1,11 +1,12 @@
+  202  git init
+  203  touch app.js
   204  git add -A
-  205  git commit -m "Adds app.js"
+  205  git commit -m "Add app.js"
   206  nano app.js 
   207  git add app.js 
   208  nano app.js 
   209  git add app.js 
-  210  git commit -m "updates app.js"
+  210  git commit -m "Update app.js"
   211  git log
-  212  git push -u origin main
-  213  git remote add origin git@github.com:anasset/git-appjs.git
-  214  git push -u origin main
+  212  git remote add origin git@github.com:anasset/git-appjs.git
+  213  git push -u origin main
