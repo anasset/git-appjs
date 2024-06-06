@@ -7,6 +7,6 @@
   208  nano app.js 
   209  git add app.js 
   210  git commit -m "Update app.js"
-  211  git log
+  211  git status
   212  git remote add origin git@github.com:anasset/git-appjs.git
   213  git push -u origin main
